@@ -1,0 +1,24 @@
+{
+  "name": "ej-express-2",
+  "version": "1.0.0",
+  "description": "Creando un servidor con Express, que responde al GET a la ruta ráiz (/) con el contenido de la pagina index.html, que incluye un \"Hola Mundo\"",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saAlbarracin/ej-express-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saAlbarracin/ej-express-2/issues"
+  },
+  "homepage": "https://github.com/saAlbarracin/ej-express-2#readme"
+}
